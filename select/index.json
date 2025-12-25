@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "月が遠いですね",
+  "base_artist": "Sohbana",
+  "createdAt": "2025-12-25T10:27:48.275731Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "月が遠いですね",
+      "artist": "Sohbana",
+      "has_synced": false,
+      "path": "select/pl_01_月が遠いですね_Sohbana.txt"
+    }
+  ]
+}
